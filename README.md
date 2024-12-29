@@ -6,4 +6,3 @@ A simple and interactive Tic Tac Toe game built with React.js. Play against a fr
 - Interactive UI: Clean and responsive user interface.
 - Dynamic Gameplay: Real-time updates after every move.
 - Winner Highlight: Automatically detects and highlights the winner.
-- Reset Game: Restart the game with a single click.
